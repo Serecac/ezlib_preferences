@@ -1,4 +1,4 @@
-# ezlib_preferences<img src="https://github.com/Serecac/ezlib_preferences/blob/master/ezlib.png" alt="Ezlib" width="128" height="128">
+<img src="https://github.com/Serecac/ezlib_preferences/blob/master/ezlib.png" alt="Ezlib" width="128" height="128">
 
 Ezlib Preferences
 =======
@@ -33,7 +33,7 @@ There are two ways to access EzlibPreferencesManager:
 First the instance must be initialized (it is not mandatory). It is recommended to do it at the beginning in the Application class.
 ```
 EzlibPreferencesInstance.init(<context>, <preferences name>);
-
+```
 
 **EzlibPreferencesModule**
 
