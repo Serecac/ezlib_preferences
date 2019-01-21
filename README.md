@@ -30,7 +30,7 @@ There are two ways to access EzlibPreferencesManager:
 
 **EzlibPreferencesInstance**
 
-First the instance must be initialized (it is not mandatory). It is recommended to do it at the beginning in the Application class.
+The instance must be initialized (it is not mandatory). It is recommended to do it at the beginning in the Application class.
 ```
 EzlibPreferencesInstance.init(<context>, <preferences name>);
 ```
